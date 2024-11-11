@@ -24,4 +24,4 @@ Para esta actividad, haga una captura de pantalla del resultado de la ejecución
 
 
 ## Codigo
--  [Ejercicio 6](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-09/tree/main/Actividad-Previa-09)
+-  [Ejercicio 6](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-09/tree/main/ActividadPrevia09)
